@@ -1,3 +1,4 @@
 #!/bin/bash
 df -kh
-free -
+free -m
+pwd
